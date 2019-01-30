@@ -16,7 +16,7 @@ function johnLennonFacts (facts){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"];
   var i;
-  newFacts = [];
+  var newFacts = [];
   while (i < facts.lenght){
     newFacts[i] = facts[i]
     i++
