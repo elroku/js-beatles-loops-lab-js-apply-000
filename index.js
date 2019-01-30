@@ -1,5 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
-  players
+  var players = []
+  for (var i = 0)
 
 function johnLennonFacts (facts){
   facts = [
