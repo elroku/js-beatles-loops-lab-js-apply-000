@@ -1,10 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
-    var i;
-  for (i = 0; i < musicians.length; i++) {
-   var theBeatlesPlay.push = musicians[i] + 'plays' + instruments[i]
-      }
-      return theBeatlesPlay
-}
+  players
 
 function johnLennonFacts (facts){
   facts = [
