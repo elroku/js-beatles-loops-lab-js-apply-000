@@ -19,6 +19,7 @@ function johnLennonFacts (facts){
   newFacts = [];
   while (i < facts.lenght){
     newFacts[i] = facts[i]
+    i++
   }
   return newFacts;
 }
